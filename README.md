@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tungnt</h1>
 <h3 align="center">Backend developer</h3>
 
-- 🌱 I’m currently learning **python, ruby, ...**
+- 🌱 I’m currently learning **python, ruby, go ...**
 
 - 👯 I’m looking to collaborate on **Open Source project**
 
