@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source project**
 
-- 💬 Ask me about **ruby, rails, web development**
+- 💬 Ask me about **ruby, go, python, rails, web development**
 
 - 📫 How to reach me **tung.nguyen120301@gmail.com**
 
